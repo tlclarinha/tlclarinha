@@ -1,16 +1,4 @@
-## Hi cleira 👋
+## Hi clara 👋
 
-<!--
-**tlclarinha/tlclarinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+estou estudando alura
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on nada
-- 🌱 I’m currently learning tecnologia
-- 👯 I’m looking to collaborate on ninguem
-- 🤔 I’m looking for help with programar
-- 💬 Ask me about a vida
-- 📫 How to reach me: ...
-- 😄 Pronouns: ela\dela
-- ⚡ Fun fact: ...
--->
